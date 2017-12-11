@@ -1,0 +1,20 @@
+[11-Dec-2017 06:00:46 UTC] PHP Notice:  Undefined variable: current_url in /home/zezenzo/public_html/controller.php on line 3
+[11-Dec-2017 06:00:51 UTC] PHP Notice:  Undefined variable: current_url in /home/zezenzo/public_html/controller.php on line 3
+[11-Dec-2017 06:04:37 UTC] PHP Parse error:  syntax error, unexpected ''</a>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/zezenzo/public_html/controller.php on line 8
+[11-Dec-2017 06:04:59 UTC] PHP Parse error:  syntax error, unexpected ''</a>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/zezenzo/public_html/controller.php on line 8
+[11-Dec-2017 06:31:20 UTC] PHP Notice:  Undefined index: upload in /home/zezenzo/public_html/upload.php on line 3
+[11-Dec-2017 06:31:20 UTC] PHP Warning:  Illegal string offset 'extension' in /home/zezenzo/public_html/upload.php on line 6
+[11-Dec-2017 06:31:20 UTC] PHP Notice:  Undefined index: upload in /home/zezenzo/public_html/upload.php on line 21
+[11-Dec-2017 06:32:41 UTC] PHP Notice:  Undefined index: upload in /home/zezenzo/public_html/upload.php on line 3
+[11-Dec-2017 06:32:41 UTC] PHP Warning:  Illegal string offset 'extension' in /home/zezenzo/public_html/upload.php on line 6
+[11-Dec-2017 06:32:41 UTC] PHP Notice:  Undefined index: upload in /home/zezenzo/public_html/upload.php on line 21
+[11-Dec-2017 06:37:41 UTC] PHP Warning:  file() expects parameter 1 to be a valid path, resource given in /home/zezenzo/public_html/controller.php on line 48
+[11-Dec-2017 06:37:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zezenzo/public_html/controller.php on line 49
+[11-Dec-2017 06:37:54 UTC] PHP Warning:  file() expects parameter 1 to be a valid path, resource given in /home/zezenzo/public_html/controller.php on line 48
+[11-Dec-2017 06:37:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zezenzo/public_html/controller.php on line 49
+[11-Dec-2017 06:48:49 UTC] PHP Parse error:  syntax error, unexpected '$end' (T_VARIABLE), expecting ',' or ';' in /home/zezenzo/public_html/controller.php on line 7
+[11-Dec-2017 06:48:53 UTC] PHP Parse error:  syntax error, unexpected '$end' (T_VARIABLE), expecting ',' or ';' in /home/zezenzo/public_html/controller.php on line 7
+[11-Dec-2017 06:49:34 UTC] PHP Notice:  Undefined variable: url in /home/zezenzo/public_html/controller.php on line 6
+[11-Dec-2017 06:49:39 UTC] PHP Notice:  Undefined variable: url in /home/zezenzo/public_html/controller.php on line 6
+[11-Dec-2017 06:50:12 UTC] PHP Notice:  Undefined variable: url in /home/zezenzo/public_html/controller.php on line 6
+[11-Dec-2017 06:55:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/zezenzo/public_html/controller.php on line 6
